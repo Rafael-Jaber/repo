@@ -10,3 +10,4 @@ TEste com o novo
 nome de usuário
 
 FUNÇÃO envia e-mail criada
+Correção na função enviar email
