@@ -4,7 +4,7 @@ linha 3
 >>>>>>> 1501133939c01663cb70a38284ee68120a82da6c
 Essa parada
 de usar o git
-é muito 
-louca 
-e fuinciona muito legal
+é funcional demais
 !!!!!
+TEste com o novo
+nome de usuário
