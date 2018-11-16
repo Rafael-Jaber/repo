@@ -1,2 +1,5 @@
+
 teste 1
+Linha 2
+:wq
 
