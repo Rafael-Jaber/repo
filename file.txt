@@ -8,3 +8,5 @@ de usar o git
 !!!!!
 TEste com o novo
 nome de usuário
+
+FUNÇÃO envia e-mail criada
