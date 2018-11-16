@@ -2,3 +2,9 @@ teste 1
 linha 2
 linha 3
 >>>>>>> 1501133939c01663cb70a38284ee68120a82da6c
+Essa parada
+de usar o git
+é muito 
+louca 
+e fuinciona muito legal
+!!!!!
